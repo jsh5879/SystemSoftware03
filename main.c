@@ -7,7 +7,7 @@ int service = 0;
 void new_register();
 void allprint();
 void personalprint();
-void part_delete(char *name);
+void Delete();
 
 int main()
 {
